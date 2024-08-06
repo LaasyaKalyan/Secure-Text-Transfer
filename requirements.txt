@@ -1,6 +1,5 @@
-python-flask
-hashlib
+flask
 pycrypto
 secretsharing
-tkinter
 webbrowser
+gunicorn
