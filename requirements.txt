@@ -1,5 +1,5 @@
 flask
-pycrypto
+pycryptodome
 secretsharing
 webbrowser
 gunicorn
